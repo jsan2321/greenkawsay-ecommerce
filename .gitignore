@@ -1,0 +1,40 @@
+# Environment variables
+**/.env
+**/.env.*
+
+# Build directories
+**/target/
+**/build/
+**/out/
+**/bin/
+
+# Dependency directories
+**/node_modules/
+**/.gradle/
+**/.mvn/
+
+# IDE files
+**/.idea/
+**/*.iml
+**/.vscode/
+**/.settings/
+**/.project
+**/.classpath
+
+# OS generated files
+**/.DS_Store
+**/Thumbs.db
+
+# Logs
+**/*.log
+**/logs/
+
+# Temporary files
+**/*.tmp
+**/*.temp
+
+# Keycloak themes
+greenkawsay-docker/keycloak/themes/**/*
+
+# Application specific
+**/application-dev.yml
